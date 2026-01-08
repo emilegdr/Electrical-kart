@@ -20,23 +20,21 @@ premierement il y a différents types de chassis chassis
 Un kart est composé de : 
  - chassis : OTK (Tony Kart, Kosmic, Exprit), Kart Republic, Birel ART, CRG, Sodikart (EOS / Sigma)    
  - moteur : Vortex (OTK Group), TM Racing, IAME (OK), Modena Engines 
- - pneu
- - reservoir ( alimentation ) 
- - transmission
- - axe arriere
- - freins
- - direction
- - train avant
- - siege
- - commandes
- - sécurité / déco
+ - pneu : 
+ - reservoir ( alimentation ) : 
+ - transmission : 
+ - axe arriere : 
+ - freins : 
+ - direction : 
+ - train avant : 
+ - siege : 
+ - commandes : 
+ - sécurité / déco : 
 
    
 
 
 
 
-Kart Republic Birel ART CRG Sodikart (EOS / Sigma)
-                
 
 
